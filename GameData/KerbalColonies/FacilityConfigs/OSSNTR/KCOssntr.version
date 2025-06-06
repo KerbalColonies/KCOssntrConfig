@@ -1,8 +1,8 @@
 {
   "NAME": "KCOssntrConfig",
   "VERSION": "v1.0.0",
-  "URL": "https://raw.githubusercontent.com/AMPW-german/KerbalColonies-ExtraplanetaryLaunchpadsConfig/refs/heads/main/GameData/KerbalColonies/FacilityConfigs/EL-Default/KerbalColonies-EL-Default.version",
-  "DOWNLOAD": "https://github.com/AMPW-german/KerbalColonies-ExtraplanetaryLaunchpadsConfig/releases/latest",
+  "URL": "https://raw.githubusercontent.com/KerbalColonies/KCOssntrConfig/refs/heads/main/GameData/KerbalColonies/FacilityConfigs/OSSNTR/KCOssntr.version",
+  "DOWNLOAD": "https://github.com/KerbalColonies/KCOssntrConfig/releases/latest",
   "KSP_VERSION": "1.12.5",
   "KSP_VERSION_MIN": "1.8",
   "KSP_VERSION_MAX": "1.12.5"
