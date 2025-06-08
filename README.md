@@ -2,6 +2,6 @@
 The default KC configs for use with OSSNTR only.
 
 Dependencies:
-- KerbalColonies >= v1.0.1
+- KerbalColonies >= v1.0.8
 - OSSNTR
  
